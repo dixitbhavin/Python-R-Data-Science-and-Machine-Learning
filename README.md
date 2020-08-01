@@ -1,2 +1,2 @@
-# Python-basic-practice-codes
+# Python-codes
 Getting Started with python
